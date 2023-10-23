@@ -1,0 +1,22 @@
+Gobblet Gobblers RULEs
+
+#RULE 1:
+If the player has a winning move, take it.
+
+#RULE 2:
+If the opponent has a winning move, block it.
+
+#RULE 3:
+If the player's move makes the opponent win, don't take it.
+
+#RULE 4:
+If the player can create a fork (two winning ways) after this move, take it.
+
+#RULE 5:
+Do not let the opponent create a fork after the player’s move.
+
+#RULE 6:
+If opponent created a fork and the player can block it (gobble up the middle pawn), do it.
+
+#RULE 7:
+Move in a way such as the player may win the most number of possible ways. 
